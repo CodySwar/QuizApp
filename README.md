@@ -1,4 +1,10 @@
-# Sample Snack app
+Interactive Quiz Application with Dynamic Difficulty Levels
+
+Developed a React Native quiz application with dynamic difficulty adjustment based on user performance, featuring over 200+ questions with multiple choice and image-based answers.
+Integrated dark mode functionality, real-time progress tracking, and an intuitive user interface with visual feedback on answer correctness.
+Implemented a heart-based life system, difficulty scaling, and seamless navigation using React Navigation.
+Enhanced user engagement with custom animations, responsive design, and optimized image rendering for consistent sizing across devices.
+
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
